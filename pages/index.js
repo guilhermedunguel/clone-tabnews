@@ -1,7 +1,8 @@
 function Home() {
   return (
     <div style={{ textAlign: "center" }}>
-      <img src="https://i.ytimg.com/vi/qWddjIwHmXw/maxresdefault.jpg"></img>
+      <h1>Em construção</h1>
+      <p>Aguarde enquanto construímos um novo espaço na internet!</p>
     </div>
   );
 }
